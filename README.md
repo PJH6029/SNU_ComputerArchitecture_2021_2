@@ -1,1 +1,9 @@
-# SNU_ComputerArchitecture_2021_2
+# Computer Architecture Assignments (SNU)
+
+Seoul National University
+
+Computer Architecture (prof. Kim), 2022 fall
+
+
+
+
